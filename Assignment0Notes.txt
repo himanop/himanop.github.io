@@ -1,0 +1,5 @@
+Use ctr+u to view the soruce code
+add the <iframe> at the end of the html code.
+Add numbers to the list of inspring websites with hyper-link
+
+Add a "about me" area. We can also go to her website to view other peoples work
